@@ -3,3 +3,6 @@
 /src/TestApp/obj
 src/packages/
 src/.vs/
+/src/TestApp/bin/Debug/net5.0-windows
+/artifacts
+/src/ColorPickerWPF/Properties/PublishProfiles
